@@ -10,7 +10,7 @@ Automatically create and manage EBS snapshots for EC2 instances that are tagged 
 
 ## 📐 Architecture Overview
 
-![Architecture Diagram](./assets/smart_vault_architecture.png)
+![Architecture Diagram](./Smart_Vault.png)
 
 ### 🔧 Core Components
 
@@ -71,7 +71,7 @@ Optional: Use AWS KMS to encrypt snapshots.
 
 ---
 
-## 📁 File Structure
+<!-- ## 📁 File Structure
 
 ```
 /smart-vault/
@@ -82,6 +82,7 @@ Optional: Use AWS KMS to encrypt snapshots.
 │   └── smart_vault_architecture.png  # Architecture diagram
 ├── README.md
 ```
+-->
 
 ---
 
